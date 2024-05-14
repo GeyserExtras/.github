@@ -1,1 +1,2 @@
-## GeyserExtras
+## NOTE:
+NOT AFFILIATED WITH GEYSERMC!
