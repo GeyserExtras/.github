@@ -1,5 +1,5 @@
 ## NOTE:
-NOT AFFILIATED WITH GEYSERMC! GEYSEREXTRAS IS A PROJECT RAN BY LETSGOAWAYDEV.
+Project is discontinued.
 
 [![generic](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact/documentation/generic_vector.svg)](https://github.com/GeyserExtras/GeyserExtras/wiki)
 
